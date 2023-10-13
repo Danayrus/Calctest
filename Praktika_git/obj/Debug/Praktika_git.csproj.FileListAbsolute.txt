@@ -1,0 +1,8 @@
+C:\Users\Данайрус\source\repos\Praktika_git\Praktika_git\bin\Debug\Praktika_git.exe.config
+C:\Users\Данайрус\source\repos\Praktika_git\Praktika_git\bin\Debug\Praktika_git.exe
+C:\Users\Данайрус\source\repos\Praktika_git\Praktika_git\bin\Debug\Praktika_git.pdb
+C:\Users\Данайрус\source\repos\Praktika_git\Praktika_git\obj\Debug\Praktika_git.csproj.AssemblyReference.cache
+C:\Users\Данайрус\source\repos\Praktika_git\Praktika_git\obj\Debug\Praktika_git.csproj.SuggestedBindingRedirects.cache
+C:\Users\Данайрус\source\repos\Praktika_git\Praktika_git\obj\Debug\Praktika_git.csproj.CoreCompileInputs.cache
+C:\Users\Данайрус\source\repos\Praktika_git\Praktika_git\obj\Debug\Praktika_git.exe
+C:\Users\Данайрус\source\repos\Praktika_git\Praktika_git\obj\Debug\Praktika_git.pdb
