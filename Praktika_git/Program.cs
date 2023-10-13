@@ -11,15 +11,17 @@ namespace Praktika_git
         static void Main(string[] args)
         {
             int num1, num2;
-            int resultAdd, resultSub;
+            int resultAdd, resultSub, resultMult;
             Console.WriteLine("Введите первое число");
             num1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Введите второе число");
             num2 = Convert.ToInt32(Console.ReadLine());
             resultAdd = num1 + num2;
             resultSub = num1 - num2;
+            resultMult = num1*num2;
             Console.WriteLine($"{num1} + {num2} = {resultAdd}");
             Console.WriteLine($"{num1} - {num2} = {resultSub}");
+            Console.WriteLine($"{num1} * {num2} = {resultMult}");
 
 
             Console.ReadKey();
